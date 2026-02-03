@@ -1,17 +1,5 @@
 ## Hi there 👋
 
-:computer
-
-:pencil
-
-:eyeglasses
-
-:oncoming_automobile
-
-:family
-
-### Vias de contacto
-
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmendozafabian%2Fmendozafabian)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/mendozafabian/mendozafabian)
