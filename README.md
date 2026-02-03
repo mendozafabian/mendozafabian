@@ -1,6 +1,4 @@
-## Hi there 👋
-
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmendozafabian%2Fmendozafabian)
+# Hi there 👋
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/mendozafabian/mendozafabian)
 
